@@ -15,6 +15,9 @@ My name is Brennon Osborn and I am a computer science student and aspiring softw
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brennonosborn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-osborn-882a81236/)
 
+### Portfolio
+
+📎[My Resume](https://github.com/MrSockss/MrSockss/blob/main/read_me/Brennon%20Osborn%20-%20Software%20Developer%20-%20Resume.pdf)
 <!--
 **MrSockss/MrSockss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
