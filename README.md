@@ -2,6 +2,10 @@
 
 My name is Brennon Osborn and I am a computer science student and aspiring software developer at James Madison University.
 
+### What I'm currently working on:
+- Learning HTML/CSS
+- Creating a mobile game using Xcode
+- Learning Blender for asset creation as part of a larger project 👀
 
 ### Languages
 
