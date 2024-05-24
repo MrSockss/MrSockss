@@ -4,8 +4,8 @@ My name is Brennon Osborn and I am a computer science student and aspiring softw
 
 ### What I'm currently working on:
 - Learning HTML/CSS
-- Creating a mobile game using Xcode
-- Learning Blender for asset creation as part of a larger project 👀
+- Creating a mobile app for logging health data relating to injuries/ailments
+- Working on ideas for an indie game to develop in UE5/Unity for PC/App Store
 
 ### Languages
 
