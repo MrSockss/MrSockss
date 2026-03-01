@@ -21,7 +21,7 @@ My name is Brennon Osborn and I am a computer science student and aspiring softw
 
 ### My Portfolio
 
-📎[Resume]([https://github.com/MrSockss/MrSockss/blob/main/read_me/Brennon%20Osborn%20-%20Software%20Developer%20-%20Resume.pdf](https://github.com/MrSockss/MrSockss/blob/main/BrennonOsborn-Resume.pdf))
+📎[Resume]([https://github.com/MrSockss/MrSockss/blob/main/BrennonOsborn-Resume.pdf])
 <!--
 **MrSockss/MrSockss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
